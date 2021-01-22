@@ -76,16 +76,42 @@ for (var i = 0; i < games.length; i++){
     // // If you pass in the value "giraffes", the function should log: "I don't like giraffes".
 
 
-//declare the function
-function logWord (whatIDontLike) {
-    console.log ("What I do not like");
-    if (function === logWord){
-        console.log (logWord);
-    }
-}
 
-//call the function
- logWord("animales");
+
+function whatIDontLike(a) {
+    var stuff = "Stuff and things"
+    return whatIDontLike;
+}
+ console.log (typeof "function");
+ console.log (function);
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// //declare the function
+// function logWord (whatIDontLike) {
+//     console.log ("What I do not like");
+//     if (function === logWord){
+//         console.log (logWord);
+//     }
+// }
+
+// //call the function
+//  logWord("animales");
  
 
 
@@ -121,5 +147,8 @@ function makeFirstLetterBig (s) {
     let newString = first.toUpperCase() + rest;
     return newString;
 }
-
 console.log(makeFirstLetterBig(str));
+
+
+
+ 
